@@ -21,9 +21,9 @@
 </div>
  <div align=left>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-    </div>
+ </div>
 
-- 🔭 I’m currently working on Javascript and Blogging on technology;
+- 🔭 I’m currently working on MERN Stack and Blogging on technology;
 - 🌱 I’m currently learning UI/UX design;
 - 👯 I’m looking to collaborate on Python libraries;
 - 🤔 I’m looking for help with Web Development skills;
@@ -46,13 +46,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-
-
 <img align="left" alt="Anshika66-Gupta Github Stats" src="https://github-readme-stats.vercel.app/api?username=KAMLESH7939&show_icons=true&hide_border=true" /> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KAMLESH7939&layout=compact)](https://github.com/KAMLESH7939/github-readme-stats)
-
-
 
 
 https://www.buymeacoffee.com/KAMLESH7939
