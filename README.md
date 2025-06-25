@@ -23,6 +23,8 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
  </div>
 
+
+
 - 🔭 I’m currently working on MERN Stack and Blogging on technology;
 - 🌱 I’m currently learning UI/UX design;
 - 👯 I’m looking to collaborate on Python libraries;
@@ -31,6 +33,8 @@
 - 😄 Pronouns: Coder, Leader and Optimism;
 - ⚡ Fun fact: To eat Ice-cream with Gulab Jammun;
 - 📫 How to reach me: kamleshguru2611@gmail.com
+
+
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -44,6 +48,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<br>
 
 
 <img align="left" alt="Anshika66-Gupta Github Stats" src="https://github-readme-stats.vercel.app/api?username=KAMLESH7939&show_icons=true&hide_border=true" /> 
