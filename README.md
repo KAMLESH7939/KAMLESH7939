@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px" align="center"><h1  align="center">&nbsp;***Heya I'm Kamlesh 👋***</h1>
+<h1  align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px" align="center"> &nbsp;***Heya I'm Kamlesh 👋***</h1>
 
 <br>
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
