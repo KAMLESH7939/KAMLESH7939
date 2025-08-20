@@ -25,7 +25,7 @@
 
 
 
-- 🔭 I’m currently working on MERN Stack and Blogging on technology;
+- 🔭 I’m currently working on AI/ML, MERN Stack and Blogging on technology and solving problems based on real world;
 - 🌱 I’m currently working on AI/ML, UI/UX design projects based on real world scenerios;
 - 👯 I’m looking to collaborate on AI related stufs;
 - 🤔 I’m looking for Frontend Developer Role, AI/ML Engineer role;
