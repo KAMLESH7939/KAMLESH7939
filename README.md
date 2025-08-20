@@ -26,9 +26,9 @@
 
 
 - 🔭 I’m currently working on MERN Stack and Blogging on technology;
-- 🌱 I’m currently learning UI/UX design;
-- 👯 I’m looking to collaborate on Python libraries;
-- 🤔 I’m looking for help with Web Development skills;
+- 🌱 I’m currently working on AI/ML, UI/UX design projects based on real world scenerios;
+- 👯 I’m looking to collaborate on AI related stufs;
+- 🤔 I’m looking for Frontend Developer Role, AI/ML Engineer role;
 - 💬 Ask me about Web development or any tech related stuff;
 - 😄 Pronouns: Coder, Leader and Optimism;
 - ⚡ Fun fact: To eat Ice-cream with Gulab Jammun;
